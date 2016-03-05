@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>user.png</file>
+        <file>chatpage.png</file>
+        <file>bg2.png</file>
+    </qresource>
+</RCC>
