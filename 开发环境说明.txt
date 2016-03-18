@@ -1,0 +1,4 @@
+网站搭建环境：Ubuntu14.04+Apache+Mysql5.5.46+PHP
+用于用户注册，登录，下载应用
+网站的代码，以及可下载的软件包的压缩文件放在web directory目录下(windows作为服务器也是可以的)
+软件开发环境:QtCreator3.5.1+Qt5.5.1
